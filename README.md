@@ -3,7 +3,7 @@ Shoppy Dashboard Application
 
 [Live Website](https://utkarsh-shoppy-dashboard.netlify.app/)
 
-Shoppy dashboard created using Syncfusion which is a Complete React UI Components Library.  
+Shoppy dashboard created using Syncfusion which is a Complete React UI Components Library. It includes Orders, Employees and Customers pages and applications like Calendar, Kanban board, Editor and Color-picker and various charts like Line, Area, Pie, Bar, Financial, Color-mapping, Pyramid and Stacked charts. It also displays items in cart, messages, notification and user profile details.  
 
 ![Main Page](./assets/main_page.png)
 
